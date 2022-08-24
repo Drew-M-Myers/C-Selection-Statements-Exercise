@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\drewm\source\repos\Iteration Statements and Loops Exercise 2.cs" Link="Iteration Statements and Loops Exercise 2.cs" />
+  </ItemGroup>
+
 </Project>
